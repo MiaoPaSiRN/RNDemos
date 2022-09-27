@@ -1,0 +1,4 @@
+{
+  //“import ... =“ 只能在typescript 文件中使用（解决方法）
+  "javascript.validate.enable": false
+}
